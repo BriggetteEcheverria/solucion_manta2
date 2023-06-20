@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">solucion_manta</string>
+    <string name="buscando">Buscando</string>
+    <string name="calibrar_impresora">Calibrar impresora</string>
+    <string name="buscar_impresoras">Buscar Impresora</string>
+    <string name="lista_de_impresoras">Lista de Impresoras</string>
+    <string name="conectado_a">Conectado a</string>
+    <string name="printer_settings">Ajustes de Impresora</string>
+    <string name="informacion">Informacion</string>
+    <string name="settings">Settings</string>
+    <string name="more_options">Mas Opciones</string>
+</resources>
